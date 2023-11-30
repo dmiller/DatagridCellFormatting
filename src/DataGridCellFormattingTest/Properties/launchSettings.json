@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataGridCellFormattingTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DataGridCellFormattingTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
